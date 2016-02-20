@@ -1,0 +1,32 @@
+---
+layout: default
+
+title: Wordpress Hosting
+modal-id: WORD0103
+date: 2016-01-31
+
+
+img: wp.png
+alt: Tomato Hunter Bitcoin Webhosting
+category: wordpress-bitcoin-hosting
+description: Wordpress shared hosting, paid with Bitcoin.
+
+db: 1
+type: WordPress
+price: 0.007
+---
+
+
+
+| SSL | <span>FREE</span> |
+| Server Location | Canada |
+| Disk Space | 500 MB |
+| Bandwidth / Mo | 1 GB |
+| Databases | 1 |
+| FTP | Yes |
+| cPanel | Yes |
+| Custom domain | Yes |
+| Email accounts | Unlimited |
+| Support | Chat & email |
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
